@@ -1,0 +1,64 @@
+[
+  {
+    "titulo": "Os mochileiros da galaxia",
+    "autor": "Ford Prefect",
+    "anoPublicado": "1500-12-32",
+    "editora": "from",
+    "id": 1
+  },
+  {
+    "titulo": "Os mochileiros da galaxia",
+    "autor": "Ford Prefect",
+    "anoPublicado": "1500-12-32",
+    "editora": "from",
+    "id": 2
+  },
+  {
+    "titulo": "Os mochileiros da galaxia",
+    "autor": "Ford Prefect",
+    "anoPublicado": "1500-12-32",
+    "editora": "from",
+    "id": 3
+  },
+  {
+    "nome": "Ford Prefect",
+    "dataNascimento": "1400-01-12",
+    "nacionalidade": "Inglês"
+  },
+  {
+    "nome": "Ford Prefect",
+    "dataNascimento": "1400-01-12",
+    "nacionalidade": "Inglês"
+  },
+  {
+    "titulo": "Os mochileiros da galaxia",
+    "autor": "Ford Prefect",
+    "anoPublicado": "1500-12-32",
+    "editora": "from",
+    "id": 6
+  },
+  {
+    "titulo": "Os mochileiros da galaxia",
+    "autor": "Ford Prefect",
+    "anoPublicado": "1500-12-32",
+    "editora": "from",
+    "id": "ee119953-2ff2-486c-945d-1d5f593aa587"
+  },
+  {
+    "titulo": "Os mochileiros da galaxia",
+    "autor": "Ford Prefect",
+    "anoPublicado": "1500-12-32",
+    "editora": "from",
+    "id": "2ef939ea-766f-4ccc-944a-185a99651bf1"
+  },
+  {
+    "nome": "Ford Prefect",
+    "dataNascimento": "1400-01-12",
+    "nacionalidade": "Inglês"
+  },
+  {
+    "nome": "Arqueiro",
+    "pais": "Inglaterra",
+    "Fundacao": "1300-06-12"
+  }
+]
